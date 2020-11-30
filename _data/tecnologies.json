@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Nodejs",
+        "icon": ""
+    },
+    {
+        "title": "Php",
+        "icon": ""
+    },
+    {
+        "title": "HTML",
+        "icon": ""
+    },
+    {
+        "title": "CSS",
+        "icon": ""
+    },
+    {
+        "title": "Javascript",
+        "icon": ""
+    },
+    {
+        "title": "Typescript",
+        "icon": ""
+    },
+    {
+        "title": "Ruby",
+        "icon": ""
+    },
+    {
+        "title": "Python",
+        "icon": ""
+    },
+    {
+        "title": "Git",
+        "icon": ""
+    },
+    {
+        "title": "Linux",
+        "icon": ""
+    },
+    {
+        "title": "PM2",
+        "icon": ""
+    },
+    {
+        "title": "Nginx",
+        "icon": ""
+    },
+    {
+        "title": "RestFull Services",
+        "icon": ""
+    },
+    {
+        "title": "NoSQL Mongodb",
+        "icon": ""
+    },
+    {
+        "title": "SQL MariaDB - Postgres",
+        "icon": ""
+    }
+]

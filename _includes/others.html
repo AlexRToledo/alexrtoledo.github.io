@@ -1,0 +1,31 @@
+<section class="others">
+  <article class="abilities">
+    <h1>Abilities:</h1>
+    <p>Languages and Tecnologies:</p>
+    <ul>
+      {% for tech in site.data.tecnologies %}
+      <li>{{ tech.title}}</li>
+      {% endfor %}
+    </ul>
+    <p>Frameworks and Libraries:</p>
+    <ul>
+      {% for frame in site.data.frames %}
+      <li>{{ frame.title}}</li>
+      {% endfor %}
+    </ul>
+  </article>
+  <article class="languages">
+    <h1>Idioms</h1>
+    <ul>
+      <li>Spanish - mother tongue</li>
+      <li>English - medium level</li>
+    </ul>
+  </article>
+  <article class="interest">
+    <h1>Interests:</h1>
+    <p>
+      Learn and know much more, work with companies that interest my work. Enjoy
+      with my family and wife.
+    </p>
+  </article>
+</section>
