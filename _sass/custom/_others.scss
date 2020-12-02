@@ -1,9 +1,41 @@
 .others {
+    article {
+        p {
+            padding-left: 1rem;
+        }
+    }
+
     .abilities {
         ul {
             display: grid;
             grid-template-columns: repeat(4, 1fr);
             gap: 1rem;
+            list-style: none;
+
+            li {
+                padding: .75rem;
+                background-color: #fff;
+                border: 1px solid #dedede;
+                border-radius: 50px;
+                text-align: center;
+            }
+        }
+    }
+
+    .languages {
+        ul {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            list-style: none;
+
+            li {
+                padding: .75rem;
+                background-color: #fff;
+                border: 1px solid #dedede;
+                border-radius: 50px;
+                text-align: center;
+            }
         }
     }
 }

@@ -52,11 +52,11 @@
         "icon": ""
     },
     {
-        "title": "NoSQL Mongodb",
+        "title": "NoSQL",
         "icon": ""
     },
     {
-        "title": "SQL MariaDB - Postgres",
+        "title": "MySql",
         "icon": ""
     }
 ]

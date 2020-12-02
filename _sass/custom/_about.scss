@@ -3,9 +3,15 @@
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
 
-    .right {
-        p {
-            text-align: justify;
+    article {
+        &.right {
+            img {
+                border-radius: 5px;
+            }
+        }
+
+        h1 {
+            font-size: 1.75em;
         }
     }
 }
